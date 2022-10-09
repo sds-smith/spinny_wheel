@@ -12,18 +12,18 @@ From the "React Basics for Developers" course description on Udemy:
 > 
 > Some of the things we will do are:
 > 
-> Run create-react-app in the terminal to generate our boilerplate App
+>   * Run create-react-app in the terminal to generate our boilerplate App
 > 
-> Write function components from scratch to create three small React Apps
+>   * Write function components from scratch to create three small React Apps
 > 
-> Explore React State both conceptually and practically
+>   * Explore React State both conceptually and practically
 > 
-> Explore the State Object and see how the useState() hook manages the State Object for us
+>   * Explore the State Object and see how the useState() hook manages the State Object for us
 > 
-> Manage State in our App with the useState() hook
+>   * Manage State in our App with the useState() hook
 > 
-> Discuss ways to improve scalability and performance in our App
+>   * Discuss ways to improve scalability and performance in our App
 > 
-> Nest components and pass props
+>   * Nest components and pass props
 > 
 > At the end of this course, you can expect to have a solid foundation of React understanding that you can build on in whatever direction you like: whether you are interested in becoming a React specialist, whether you're just looking to add another tool to your Developer tool belt, or whether you simply wish to gain an understanding of React at a foundational level.
